@@ -1,5 +1,5 @@
-VERSION="v8"
-VERSION_ANT="v7"
+VERSION="v2"
+VERSION_ANT="v1"
 TEMP_BASE="bg-base.yaml"
 
 
